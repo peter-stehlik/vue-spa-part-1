@@ -1,18 +1,5 @@
-# vue-blog-app-1
+# Vue.js Blog Single Page App
 
-> A Vue.js project
+In this first part of the Vue.js blog tutorial, I include Twitter Boostrap 4 into app for nice CSS styling, connect to REST API and load all articles nicely paginated with 3rd party plugin.
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation, visit [peterstehlik.com](http://www.peterstehlik.com/?p=595).
